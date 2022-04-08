@@ -1,0 +1,64 @@
+body {
+    background-color: #74C259;
+    width: 869px;
+    height: 359px;
+    margin: auto;
+    padding-top: 8%;
+}
+div {
+    height: 290px;
+}
+.login_box {
+    background-color: #FFFFFF;
+    width: 360px;
+    height: 300px;
+    margin: 0 auto;
+    margin-top: 60px;
+    
+}
+.login-form {
+    width: 270px;
+    height: 210px;
+    display: inline-block;
+    box-shadow: 0 0 20px 0 rgb(0 0 0 / 20%), 0 5px 5px 0 rgb(0 0 0 / 24%);
+    padding: 45px;
+    margin: 0 auto;
+}
+input[type="text"], input[type="password"] {
+    font-family: "Roboto", sans-serif;
+    outline: 0;
+    background: #f2f2f2;
+    width: 100%;
+    border: 0;
+    margin: 0 0 15px;
+    padding: 15px;
+    box-sizing: border-box;
+    font-size: 14px;
+}
+button {
+    padding: 15px;
+    text-transform: capitalize;
+    font-size: 14px;
+    display: inline-block;
+    font-family: "Roboto", sans-serif;
+    text-transform: uppercase;
+    outline: 0;
+    background: #4CAF50;
+    width: 100%;
+    border: 0;
+    padding: 15px;
+    color: #FFFFFF;
+    font-size: 14px;
+}
+button:hover {
+    cursor: pointer;
+}
+p {
+    display: inline-block;
+    font-family: "Roboto", Arial, Helvetica, sans-serif;
+}
+a.Create {
+    color:#71bc37;
+    text-decoration: none;    
+
+}

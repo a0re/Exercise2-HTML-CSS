@@ -1,0 +1,153 @@
+body {
+    background: #3C4C55;
+    font-family: 'Oxygen', sans-serif;
+    margin: 0;   
+    text-decoration: none;
+}
+.login_box { 
+    margin: auto;
+    padding-top: 7%;
+    width: 600px;
+    height: 461px;
+}
+
+/*Social */
+.column1 {
+    width: 50%;
+    display: block;
+    float: left;
+    margin: 0 0 0 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+.column2 {
+    width: 50%;
+    display: block;
+    float: left;
+    margin: 0 0 0 0;
+    box-sizing: border-box;   
+    text-decoration: none;
+}
+.social_connect {
+    height: 54px;
+    text-decoration: none;
+}
+i {
+    color: white;
+    display: block;
+}
+.fa-brands, .fab {
+    font-size: 1.5em;
+}
+ul.facebook {
+    list-style: none;
+    background: #3B5998;
+    padding: 12px;
+    margin: 0px;
+    display: block;
+    text-decoration: none;
+}
+ul.twitter {
+    list-style: none;
+    padding: 12px;
+    margin: 0px;
+    display: block;
+    background: #55ACEE;
+    text-decoration: none;
+}
+li {
+    color: white;
+    text-align: center;
+    font-family: 'Oxygen', sans-serif;
+    text-decoration: none;
+    outline: none;
+    width: 170px;
+    display: block;
+    margin: 0 auto;
+    float: right;
+    padding-right: 50px;
+}
+/*Personal Info */
+.filler {
+    display: block;
+    text-align: center;
+    color: #fff;
+    font-family: Oxygen, sans-serif;
+    padding: 16px 0;
+    height: 20px;
+}
+p.filler {
+    padding-top: 0px;
+}
+.personal_info{
+    width: 600px;
+    height: 60px;
+}
+input[type="name"] {
+    padding: 15px;
+    font-size: 1.1em;
+    color: #666666;
+    width: 44.2%;
+    cursor: pointer;
+    font-family: 'Oxygen', sans-serif;
+    outline: none;
+    font-weight: 600;
+    background: #FFFFFF;
+    border-left: 6px;
+    border-style: none;
+}
+/*Login info */
+input[type="text"] {
+    padding: 14px;
+    width: 95%;
+    font-size: 1em;
+    margin: 18px 0px;
+    border: none;
+    color: #666666;
+    cursor: pointer;
+    float: left;
+    font-weight: 700;
+    font-family: 'Oxygen', sans-serif;
+    background: #ffffff;
+}
+p.T\&C {
+    font-size: 16px;
+    text-align: left;
+    font-family: 'Oxygen', sans-serif;
+    color: white;
+
+}
+a.T\&C {
+    color: #1888A8;
+    font-weight: bold;
+    text-decoration: none;
+}
+a.layouts {
+    font-family: 'Oxygen', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    color: #55ACEE;
+    text-decoration: none;
+
+}
+/*button */
+button {
+    padding: 17px 30px;
+    color: #fff;
+    float: right;
+    font-family: 'Oxygen', sans-serif;
+    background: #40A46F;
+    border: 1px solid #40A46F;
+    cursor: pointer;
+    font-size: 18px;
+    width: 100%;
+    margin-bottom: 5%;
+}
+
+
+/*Copyright Area*/
+.copyright {
+    color: #FFF;
+    font-size: 16px;
+    text-align: center;
+}
